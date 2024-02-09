@@ -1,4 +1,10 @@
-# Wedding Site Template
+# Lillian and Robert's Wedding
+
+Hey, you found the "behind-the-scene's" of our wedding website
+
+Go here instead [Click_Here](https://robbysabo.github.io/wedding/)
+
+## Wedding Site Template
 
 A simple, responsive, easy-to-edit wedding website template.
 
@@ -39,7 +45,7 @@ The icons are provided by [FontAwesome](https://fontawesome.com/icons?d=gallery)
 
 To add/change icons, find the icon you like on their page and then use the following syntax to insert:
 
-```<i class="fas fa-[ICON ID HERE]"></i>```
+`<i class="fas fa-[ICON ID HERE]"></i>`
 
 #### Versioning
 
