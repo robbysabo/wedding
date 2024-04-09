@@ -1848,4 +1848,11 @@ form label {
   color: #303030;
 }
 
+.registry-img-span {
+  margin: 0 8px;
+}
+
+.registry-img {
+  margin-bottom: 15px;
+}
 /*# sourceMappingURL=style.css.map */
